@@ -6,5 +6,9 @@ DEĞİŞİMLER
 
 -OnlatTalk Icon Eklendi.
 
+-Genel olarak Nested Css kullanıldı.
+
 -"npm i emoji-picker-react" ile emojiler eklendi..
+
+-Login ekranında başarılı veya başarısız giriş için "React Toastify" eklendi..
 
